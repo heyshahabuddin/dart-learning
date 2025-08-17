@@ -1,0 +1,11 @@
+/*
+ In the object-oriented paradigm, correctness, robustness, extensibility, and reusability are four key qualities of software systems, often enhanced by OOP principles:
+
+    * Correctness: This refers to the system's adherence to its specified requirements and the absence of errors or bugs. OOP principles like encapsulation and abstraction can contribute to correctness by promoting modularity and reducing complexity, making it easier to reason about and verify individual components.
+
+    * Robustness: Robustness signifies the system's ability to handle unexpected or erroneous inputs and conditions gracefully without crashing or producing incorrect results. Encapsulation and proper error handling within objects can enhance robustness by localizing potential issues and providing mechanisms to recover from errors.
+
+    * Extensibility: Extensibility is the ease with which a software system can be modified or expanded to accommodate new requirements or functionalities without significantly altering existing code. OOP features like inheritance and polymorphism are central to extensibility. Inheritance allows new classes to extend existing ones, inheriting their behavior and adding new features, while polymorphism enables flexible interactions with objects of different types, making it easier to introduce new types without breaking existing code. The Open-Closed Principle, a key design principle in OOP, directly promotes extensibility by advocating for classes that are "open for extension but closed for modification."
+
+    * Reusability: Reusability refers to the ability to use existing software components or code in new applications or contexts without significant modification. OOP strongly promotes reusability through concepts like classes, objects, and inheritance. By defining well-designed classes and objects, developers can encapsulate specific functionalities that can be reused across different parts of a system or in entirely new projects. Inheritance further enhances reusability by allowing derived classes to leverage the functionality of their parent classes. Polymorphism also contributes to reusability by enabling generic code that can operate on various object types.
+*/
