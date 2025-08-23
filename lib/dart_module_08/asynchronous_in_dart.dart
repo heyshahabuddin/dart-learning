@@ -36,6 +36,7 @@
 
 main() async {
   print('Fetching data...');
+  //String data = fetchData(); // Await the completion of fetchData
   String data = await fetchData(); // Await the completion of fetchData
   print(data);
   print('Program continues after data fetch.');
